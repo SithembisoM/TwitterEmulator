@@ -1,0 +1,10 @@
+C:\Projects\TwitterEmulatorApp\TwitterEmulatorApp\bin\Debug\TwitterEmulatorApp.exe.config
+C:\Projects\TwitterEmulatorApp\TwitterEmulatorApp\obj\Debug\TwitterEmulatorApp.csprojResolveAssemblyReference.cache
+C:\Projects\TwitterEmulatorApp\TwitterEmulatorApp\bin\Debug\TwitterEmulatorApp.exe
+C:\Projects\TwitterEmulatorApp\TwitterEmulatorApp\bin\Debug\TwitterEmulatorApp.pdb
+C:\Projects\TwitterEmulatorApp\TwitterEmulatorApp\obj\Debug\TwitterEmulatorApp.exe
+C:\Projects\TwitterEmulatorApp\TwitterEmulatorApp\obj\Debug\TwitterEmulatorApp.pdb
+C:\Projects\TwitterEmulatorApp\TwitterEmulatorApp\bin\Debug\TwitterEmulatorApp.exe.manifest
+C:\Projects\TwitterEmulatorApp\TwitterEmulatorApp\bin\Debug\TwitterEmulatorApp.application
+C:\Projects\TwitterEmulatorApp\TwitterEmulatorApp\obj\Debug\TwitterEmulatorApp.exe.manifest
+C:\Projects\TwitterEmulatorApp\TwitterEmulatorApp\obj\Debug\TwitterEmulatorApp.application
